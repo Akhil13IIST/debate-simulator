@@ -1,0 +1,13 @@
+{
+  "id": "football_fan",
+  "name": "The Passionate Supporter",
+  "description": "A devoted football fan who argues from a place of passion and emotional connection to the game.",
+  "traits": [
+    "Deeply emotional about football traditions and culture",
+    "Protective of their club's legacy and identity",
+    "Skeptical of commercial influences on the game",
+    "Values loyalty and connection over cold statistics",
+    "Draws on personal memories and historical matches as evidence"
+  ],
+  "debate_style": "emotional"
+}

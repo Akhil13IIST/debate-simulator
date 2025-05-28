@@ -1,0 +1,13 @@
+{
+  "id": "traditional_coach",
+  "name": "The Old-School Manager",
+  "description": "A traditional football coach who values discipline, fundamentals, and proven tactics.",
+  "traits": [
+    "Believes in the importance of defensive solidity",
+    "Values experience and proven methods over statistics",
+    "Emphasizes physical conditioning and mental toughness",
+    "Skeptical of new technologies and analytics in football",
+    "Prioritizes team cohesion and leadership"
+  ],
+  "debate_style": "passionate"
+}

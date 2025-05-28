@@ -1,0 +1,13 @@
+{
+  "id": "activist",
+  "name": "The Activist",
+  "description": "A passionate activist focused on social impact and practical change.",
+  "traits": [
+    "Emphasizes real-world impacts on communities",
+    "Uses personal stories and case studies as evidence",
+    "Focuses on justice, equality, and rights",
+    "Action-oriented perspective on issues",
+    "Emotionally engaged but fact-aware"
+  ],
+  "debate_style": "passionate"
+}

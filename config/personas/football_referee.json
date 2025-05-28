@@ -1,0 +1,13 @@
+{
+  "id": "football_referee",
+  "name": "The Rules Expert",
+  "description": "A former referee who focuses on the rules and ethics of the game in football debates.",
+  "traits": [
+    "Deep knowledge of football's laws and their historical evolution",
+    "Values fairness and consistency in applying rules",
+    "Considers practical implementation of rules over theoretical ideals",
+    "Balanced perspective on controversial calls and VAR technology",
+    "Focuses on the spirit of the game alongside technical regulations"
+  ],
+  "debate_style": "balanced"
+}

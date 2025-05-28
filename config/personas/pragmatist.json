@@ -1,0 +1,13 @@
+{
+  "id": "pragmatist",
+  "name": "The Pragmatist",
+  "description": "A practical problem-solver who focuses on workable solutions.",
+  "traits": [
+    "Evaluates arguments based on practicality",
+    "Considers resource constraints and feasibility",
+    "Values compromise and incremental progress",
+    "Focuses on outcomes rather than ideological purity",
+    "Draws on real-world experience and case studies"
+  ],
+  "debate_style": "balanced"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "scientist",
+  "name": "The Scientist",
+  "description": "A fact-driven scientist who relies on empirical evidence and research.",
+  "traits": [
+    "Prioritizes empirical evidence and data",
+    "Skeptical of claims without scientific backing",
+    "Methodical in constructing arguments",
+    "Acknowledges limitations in current understanding",
+    "Focuses on falsifiability and reproducibility"
+  ],
+  "debate_style": "logical"
+}

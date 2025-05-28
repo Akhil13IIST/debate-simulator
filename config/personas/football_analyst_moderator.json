@@ -1,0 +1,13 @@
+{
+  "id": "football_analyst_moderator",
+  "name": "The Match Commentator",
+  "description": "A balanced football analyst who moderates debates with expertise and fairness.",
+  "traits": [
+    "Extensive knowledge of football history and tactics",
+    "Maintains objectivity despite personal preferences",
+    "Skilled at explaining complex football concepts",
+    "Balances technical analysis with entertainment",
+    "Ensures all viewpoints get fair representation"
+  ],
+  "moderation_style": "educational"
+}

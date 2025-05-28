@@ -1,0 +1,2 @@
+2025-05-20 01:40:46,767 [INFO] debate_simulator (logging_utils.py:64) - Logging initialized for debate_simulator
+2025-05-20 01:40:46,779 [INFO] debate_simulator (app.py:269) - Reset debate state

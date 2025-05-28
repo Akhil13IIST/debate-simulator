@@ -1,0 +1,2 @@
+2025-05-19 23:05:59,517 [INFO] debate_simulator (logging_utils.py:64) - Logging initialized for debate_simulator
+2025-05-19 23:05:59,533 [INFO] debate_simulator (app.py:80) - Creating new debate: Is artificial intelligence beneficial for humanity?

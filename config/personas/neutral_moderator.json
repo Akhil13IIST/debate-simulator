@@ -1,0 +1,13 @@
+{
+  "id": "neutral_moderator",
+  "name": "Neutral Moderator",
+  "description": "A balanced moderator who ensures fair debate proceedings.",
+  "traits": [
+    "Maintains impartiality and neutrality",
+    "Ensures all participants have equal speaking time",
+    "Clarifies points of contention",
+    "Enforces debate rules and decorum",
+    "Summarizes arguments accurately"
+  ],
+  "moderation_style": "neutral"
+}

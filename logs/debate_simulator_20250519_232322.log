@@ -1,0 +1,2 @@
+2025-05-19 23:23:22,627 [INFO] debate_simulator (logging_utils.py:64) - Logging initialized for debate_simulator
+2025-05-19 23:23:22,640 [ERROR] debate_simulator (app.py:437) - Application error: start_debate() takes 0 positional arguments but 1 was given

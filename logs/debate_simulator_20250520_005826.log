@@ -1,0 +1,2 @@
+2025-05-20 00:58:26,825 [INFO] debate_simulator (logging_utils.py:64) - Logging initialized for debate_simulator
+2025-05-20 00:58:38,532 [INFO] debate_simulator (app.py:234) - Completed debate turn: Debate completed. Winner: The Old-School Manager

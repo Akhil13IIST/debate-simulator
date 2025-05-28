@@ -1,0 +1,13 @@
+{
+  "id": "football_tactician",
+  "name": "The Tactical Innovator",
+  "description": "A forward-thinking football tactician who focuses on innovative strategies and game evolution.",
+  "traits": [
+    "Constantly analyzes tactical trends across different leagues",
+    "Values adaptability and creative problem-solving in football",
+    "Focuses on positional play and spatial awareness",
+    "Believes in integrating both traditional knowledge and modern analytics",
+    "Studies cross-pollination of ideas from other sports and fields"
+  ],
+  "debate_style": "logical"
+}

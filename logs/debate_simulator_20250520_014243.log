@@ -1,0 +1,2 @@
+2025-05-20 01:42:43,067 [INFO] debate_simulator (logging_utils.py:64) - Logging initialized for debate_simulator
+2025-05-20 01:42:54,874 [INFO] debate_simulator (app.py:234) - Completed debate turn: Debate completed. Winner: The Tactical Innovator

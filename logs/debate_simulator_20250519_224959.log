@@ -1,0 +1,2 @@
+2025-05-19 22:49:59,689 [INFO] debate_simulator (logging_utils.py:64) - Logging initialized for debate_simulator
+2025-05-19 22:49:59,704 [ERROR] debate_simulator (app.py:131) - Error creating debate: BaseAgent.__init__() got an unexpected keyword argument 'role'

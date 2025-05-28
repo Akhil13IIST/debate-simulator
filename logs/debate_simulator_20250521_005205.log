@@ -1,0 +1,2 @@
+2025-05-21 00:52:05,649 [INFO] debate_simulator (logging_utils.py:64) - Logging initialized for debate_simulator
+2025-05-21 00:52:17,093 [ERROR] debate_simulator (app.py:243) - Error running debate turn: module 'streamlit' has no attribute 'experimental_rerun'
