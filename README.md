@@ -36,8 +36,9 @@ debate_simulator/
 
 ## Installation
 
-1. Clone this repository:   ```
-   git clone https://github.com/your-github-username/debate-simulator.git
+1. Clone this repository:   
+   ```
+   git clone https://github.com/Akhil13IIST/debate-simulator.git
    cd debate-simulator
    ```
 
